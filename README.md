@@ -3,7 +3,7 @@
 Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
 
 ## Demo of the project
-[![Watch the video]([https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4](https://github.com/atharvguitarist/ATS-Resume-Analyser-via-Gemini-Pro/blob/main/Project%20Demo.mp4))
+[![Watch the video]([https://github.com/atharvguitarist/ATS-Resume-Analyser-via-Gemini-Pro/blob/main/Project%20Demo.mp4])
 ## Features
 - **Job Description Match:** The system evaluates how well a candidate's resume matches the provided job description, helping recruiters quickly identify suitable candidates.
 
