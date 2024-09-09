@@ -4,7 +4,7 @@ Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is develo
 
 ## Demo of the project
 <video width="560" height="315" controls>
-  <source src="https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/raw/main/ATS-Resume-Analyser-via-Gemini-Pro/Project%20Demo.mp4" type="video/mp4">
+  <source src="https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/ATS-Resume-Analyser-via-Gemini-Pro/Project%20Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
