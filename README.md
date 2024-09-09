@@ -20,7 +20,7 @@ Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is develo
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/
+git clone https://github.com/atharvguitarist/ATS-Resume-Analyser-via-Gemini-Pro.git
 ```
 
 2. Install dependencies:
