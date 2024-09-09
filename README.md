@@ -4,7 +4,7 @@ Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is develo
 
 ## Demo of the project
 
-![Project Demo](https://github.com/user-attachments/assets/56b935bb-06b0-4f72-a30c-32c72505b47a)
+[!Video](https://github.com/user-attachments/assets/56b935bb-06b0-4f72-a30c-32c72505b47a)
 
 ## Features
 - **Job Description Match:** The system evaluates how well a candidate's resume matches the provided job description, helping recruiters quickly identify suitable candidates.
