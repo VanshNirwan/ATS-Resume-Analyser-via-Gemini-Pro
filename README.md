@@ -1,9 +1,12 @@
 # Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro
 ## Overview
-Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights such as job description match, missing keywords, and profile summary.
+Welcome to the Gemini Pro Applicant Tracking System (ATS)! This system is developed using the powerful Gemini Pro model to streamline the hiring process by analyzing job descriptions and resumes. It provides valuable insights, such as job description matches, missing keywords, and profile summaries.
 
 ## Demo of the project
-[!Video]<iframe width="560" height="315" src="ATS-Resume-Analyser-via-Gemini-Pro/Project Demo.mp4" frameborder="0" allowfullscreen></iframe>
+<video width="560" height="315" controls>
+  <source src="https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/raw/main/ATS-Resume-Analyser-via-Gemini-Pro/Project%20Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Features
 - **Job Description Match:** The system evaluates how well a candidate's resume matches the provided job description, helping recruiters quickly identify suitable candidates.
@@ -65,7 +68,7 @@ This project is licensed under the MIT License.
 ## Contact
 If you have any questions or issues, feel free to reach out to the maintainers:
 
-Maintainer: Prajwal Krishna
-Email: prajwalgbdr03@gmail.com
+Maintainer: Atharv Gupta
+Email: atharvg06@gmail.com
 
-Happy recruiting with Gemini Pro ATS!
+Maximize your recruiting success with Gemini Pro ATS!!
