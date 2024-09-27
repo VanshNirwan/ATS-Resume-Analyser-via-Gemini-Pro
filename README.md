@@ -66,7 +66,7 @@ This project is licensed under the MIT License.
 ## Contact
 If you have any questions or issues, feel free to reach out to the maintainers:
 
-Maintainer: Atharv Gupta
-Email: atharvg06@gmail.com
+Maintainer: Vansh Nirwan
+Email: vansh.nirwan06@gmail.com
 
 Maximize your recruiting success with Gemini Pro ATS!!
